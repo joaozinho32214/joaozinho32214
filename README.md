@@ -2,7 +2,7 @@
 
 Meu nome é João Victor Jesus 
 
-- Estou estudando na ![Alura](https//alura.com.br)
+- Estou estudando na [Alura](https://alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
